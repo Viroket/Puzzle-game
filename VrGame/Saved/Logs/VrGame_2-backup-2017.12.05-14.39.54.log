@@ -1,0 +1,1700 @@
+﻿Log file open, 12/02/17 21:24:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VrGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2013413614) SRandInit(2013413614).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.190781
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Unreal Program/1/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.02-19.24.38:392][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-19.24.38:392][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.02-19.24.38:412][  0]LogInit: Computer: DESKTOP-L7CBORC
+[2017.12.02-19.24.38:412][  0]LogInit: User: Tal
+[2017.12.02-19.24.38:412][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.02-19.24.38:412][  0]LogInit: High frequency timer resolution =3.328124 MHz
+[2017.12.02-19.24.38:413][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.02-19.24.38:413][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.02-19.24.38:413][  0]LogMemory: Process Physical Memory: 272.85 MB used, 272.85 MB peak
+[2017.12.02-19.24.38:413][  0]LogMemory: Process Virtual Memory: 271.81 MB used, 271.81 MB peak
+[2017.12.02-19.24.38:413][  0]LogMemory: Physical Memory: 13520.39 MB used,  2785.38 MB free, 16305.76 MB total
+[2017.12.02-19.24.38:413][  0]LogMemory: Virtual Memory: 650.91 MB used,  2785.38 MB free, 134217728.00 MB total
+[2017.12.02-19.24.38:638][  0]LogInit: Using OS detected language (en-US).
+[2017.12.02-19.24.38:638][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.02-19.24.38:642][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.02-19.24.39:262][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.02-19.24.39:546][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.02-19.24.39:563][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2017.12.02-19.24.39:563][  0]LogD3D11RHI:       4072/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2017.12.02-19.24.39:564][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.02-19.24.39:564][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.02-19.24.39:564][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.02-19.24.39:572][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.02-19.24.39:572][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.02-19.24.39:572][  0]LogWindows: EnumDisplayDevices:
+[2017.12.02-19.24.39:572][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2017.12.02-19.24.39:572][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2017.12.02-19.24.39:572][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:573][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:573][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:573][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:573][  0]LogWindows:    6. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:573][  0]LogWindows:    7. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:573][  0]LogWindows:    8. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:573][  0]LogWindows:    9. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:574][  0]LogWindows:    10. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:574][  0]LogWindows:    11. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:574][  0]LogWindows:    12. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:574][  0]LogWindows:    13. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:575][  0]LogWindows:    14. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:575][  0]LogWindows:    15. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.12.02-19.24.39:575][  0]LogWindows: DebugString: FoundDriverCount:16 
+[2017.12.02-19.24.39:575][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2017.12.02-19.24.39:575][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.11.1 (internal:23.20.788.0, unified:23.20.788.0)
+[2017.12.02-19.24.39:575][  0]LogD3D11RHI:      Driver Date: 11-2-2017
+[2017.12.02-19.24.39:575][  0]LogRHI: Texture pool is 2850 MB (70% of 4072 MB)
+[2017.12.02-19.24.39:607][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.02-19.24.39:619][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.12.02-19.24.39:620][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/Tal/Documents/Unreal Projects/VrGame/Intermediate/Shaders/WorkingDirectory/20636/).
+[2017.12.02-19.24.39:620][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tal/AppData/Local/Temp/UnrealShaderWorkingDir/12573D3A4074D89848BF1BB0CC8E0EFF/'.
+[2017.12.02-19.24.39:620][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.02-19.24.40:559][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.02-19.24.40:604][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.02-19.24.40:646][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.02-19.24.40:694][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.02-19.24.40:735][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.02-19.24.40:780][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.02-19.24.40:822][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.02-19.24.40:871][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.02-19.24.40:910][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.02-19.24.40:956][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.02-19.24.40:996][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.02-19.24.41:037][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.02-19.24.41:091][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.02-19.24.41:133][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.02-19.24.41:220][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.02-19.24.41:220][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.02-19.24.41:265][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.02-19.24.41:295][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.02-19.24.41:369][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.02-19.24.41:397][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.02-19.24.41:443][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.02-19.24.41:492][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.02-19.24.41:533][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.02-19.24.41:577][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.02-19.24.41:577][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.02-19.24.41:927][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.02-19.24.42:056][  0]LogDerivedDataCache: Loaded boot cache 0.13s 92MB C:/Users/Tal/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.02-19.24.42:056][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tal/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.02-19.24.42:056][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Tal/Documents/Unreal Projects/VrGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.02-19.24.42:056][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.02-19.24.42:056][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Tal/Documents/Unreal Projects/VrGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.02-19.24.42:056][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.02-19.24.42:076][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.02-19.24.42:088][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.02-19.24.42:100][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.02-19.24.42:100][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.02-19.24.42:101][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-19.24.42:101][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-19.24.42:481][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-19.24.42:767][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.02-19.24.42:802][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.02-19.24.42:802][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.02-19.24.42:802][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.02-19.24.42:802][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.02-19.24.42:802][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.02-19.24.42:836][  0]LogNetVersion: VrGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2529594527)
+[2017.12.02-19.24.42:987][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2017.12.02-19.24.43:507][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.086932 seconds
+[2017.12.02-19.24.43:514][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.02-19.24.43:514][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.02-19.24.43:514][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.02-19.24.43:548][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.02-19.24.45:935][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.02-19.24.45:976][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.02-19.24.46:534][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.02-19.24.46:889][  0]SourceControl: Source control is disabled
+[2017.12.02-19.24.46:889][  0]SourceControl: Source control is disabled
+[2017.12.02-19.24.46:929][  0]SourceControl: Source control is disabled
+[2017.12.02-19.24.46:971][  0]SourceControl: Source control is disabled
+[2017.12.02-19.24.47:620][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.02-19.24.47:830][  0]LogOcInput: OculusInput pre-init called
+[2017.12.02-19.24.48:075][  0]LogEngine: Initializing Engine...
+[2017.12.02-19.24.53:145][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-0F0824F0
+[2017.12.02-19.24.53:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.02-19.24.53:427][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.02-19.24.53:563][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.02-19.24.53:578][  0]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.24.53:590][  0]LogInit: FAudioDevice initialized.
+[2017.12.02-19.24.53:703][  0]LogDerivedDataCache: Saved boot cache 0.11s 92MB C:/Users/Tal/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.02-19.24.53:735][  0]LogInit: Texture streaming: Enabled
+[2017.12.02-19.24.53:832][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.02-19.24.53:964][  0]LogInit: Transaction tracking system initialized
+[2017.12.02-19.24.54:261][  0]BlueprintLog: New page: Editor Load
+[2017.12.02-19.24.55:108][  0]LocalizationService: Localization service is disabled
+[2017.12.02-19.24.55:809][  0]LogConsoleResponse: Display: 
+[2017.12.02-19.24.55:978][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.02-19.24.55:978][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.02-19.24.55:978][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.02-19.24.56:908][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/' took 0.02s
+[2017.12.02-19.24.56:941][  0]SourceControl: Source control is disabled
+[2017.12.02-19.24.56:941][  0]Cmd: MAP LOAD FILE="C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-19.24.56:941][  0]LightingResults: New page: Lighting Build
+[2017.12.02-19.24.56:983][  0]MapCheck: New page: Map Check
+[2017.12.02-19.24.56:983][  0]LightingResults: New page: Lighting Build
+[2017.12.02-19.24.57:084][  0]LogAIModule: Creating AISystem for world StartupMap
+[2017.12.02-19.24.57:091][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-19.24.57:101][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-19.24.57:135][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 34.142ms to complete.
+[2017.12.02-19.24.57:135][  0]LogFileHelpers: Loading map 'StartupMap' took 0.195
+[2017.12.02-19.24.57:219][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.02-19.24.57:313][  0]LogCollectionManager: Loaded 0 collections in 0.000761 seconds
+[2017.12.02-19.24.57:397][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tal/Documents/Unreal Projects/VrGame/Saved/Collections/' took 0.01s
+[2017.12.02-19.24.57:397][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/Developers/Tal/Collections/' took 0.01s
+[2017.12.02-19.24.57:398][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/Collections/' took 0.01s
+[2017.12.02-19.24.57:398][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.02-19.24.57:406][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2363 classes and 519 folders.
+[2017.12.02-19.24.57:454][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.02-19.24.57:489][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.02-19.24.57:517][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.02-19.24.57:533][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-19.24.57:535][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.02-19.24.57:541][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.02-19.24.57:660][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2017.12.02-19.24.57:866][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.02-19.24.57:866][  0]LogLoad: (Engine Initialization) Total time: 22.25 seconds
+[2017.12.02-19.24.57:866][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.02-19.24.57:866][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.02-19.24.57:895][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.02-19.24.57:942][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-19.24.57:966][  1]LogAssetRegistry: Asset discovery search completed in 15.0006 seconds
+[2017.12.02-19.24.57:968][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.02-19.24.57:968][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2017.12.02-19.25.07:193][ 51]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-19.25.07:713][ 51]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.02-19.25.07:736][ 51]Cmd: MAP LOAD FILE="C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-19.25.07:736][ 51]LightingResults: New page: Lighting Build
+[2017.12.02-19.25.07:737][ 51]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2017.12.02-19.25.07:738][ 51]MapCheck: New page: Map Check
+[2017.12.02-19.25.07:738][ 51]LightingResults: New page: Lighting Build
+[2017.12.02-19.25.07:757][ 51]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-19.25.07:820][ 51]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-19.25.07:864][ 51]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.72ms to complete.
+[2017.12.02-19.25.07:864][ 51]LogFileHelpers: Loading map 'MotionControllerMap' took 0.129
+[2017.12.02-19.25.09:202][199]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.25.09:262][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-19.25.09:262][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.25.09:262][199]PIE: New page: PIE session: MotionControllerMap (Dec 2, 2017, 11:25:09 PM)
+[2017.12.02-19.25.09:263][199]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.12.02-19.25.09:272][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008973s)
+[2017.12.02-19.25.09:272][199]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.02-19.25.09:272][199]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2017.12.02-19.25.09:273][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010256s)
+[2017.12.02-19.25.09:306][199]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.25.09:313][199]LogInit: FAudioDevice initialized.
+[2017.12.02-19.25.09:470][199]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.25.09:470][199]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.25.09:474][199]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.12.02-21.25.09
+[2017.12.02-19.25.09:475][199]LogWorld: Bringing up level for play took: 0.003614
+[2017.12.02-19.25.09:510][199]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.12.02-19.25.09:525][199]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.272
+[2017.12.02-19.25.09:526][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-19.25.09:581][200]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1).
+[2017.12.02-19.25.27:363][775]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-19.25.27:551][775]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-19.25.38:317][948]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.02-19.25.38:514][948]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.25.38:576][948]Cmd: MAP LOAD FILE="C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/Levels/Demostration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-19.25.38:576][948]LightingResults: New page: Lighting Build
+[2017.12.02-19.25.38:577][948]LoadErrors: New page: Loading map: Demostration.umap
+[2017.12.02-19.25.38:578][948]MapCheck: New page: Map Check
+[2017.12.02-19.25.38:578][948]LightingResults: New page: Lighting Build
+[2017.12.02-19.25.38:625][948]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-19.25.38:675][948]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-19.25.38:746][948]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.333ms to complete.
+[2017.12.02-19.25.38:746][948]LogFileHelpers: Loading map 'Demostration' took 0.171
+[2017.12.02-19.25.40:523][ 93]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.25.40:540][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.25.40:540][ 93]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:25:40 PM)
+[2017.12.02-19.25.40:540][ 93]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.25.40:591][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050443s)
+[2017.12.02-19.25.40:592][ 93]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.25.40:592][ 93]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2017.12.02-19.25.40:592][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.052113s)
+[2017.12.02-19.25.40:609][ 93]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.25.40:616][ 93]LogInit: FAudioDevice initialized.
+[2017.12.02-19.25.40:744][ 93]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.25.40:744][ 93]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.25.40:760][ 93]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.25.40
+[2017.12.02-19.25.40:762][ 93]LogWorld: Bringing up level for play took: 0.017570
+[2017.12.02-19.25.40:771][ 93]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration -0.482
+[2017.12.02-19.25.58:418][787]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.25.59:378][832]Cmd: EDIT PASTE
+[2017.12.02-19.26.03:564][240]Cmd: TRANSACTION UNDO
+[2017.12.02-19.26.03:564][240]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.26.03:647][240]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-19.26.47:982][277]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.26.47:997][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.26.47:998][277]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:26:47 PM)
+[2017.12.02-19.26.47:998][277]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.26.48:056][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057920s)
+[2017.12.02-19.26.48:057][277]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.26.48:057][277]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2017.12.02-19.26.48:057][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.059269s)
+[2017.12.02-19.26.48:072][277]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.26.48:079][277]LogInit: FAudioDevice initialized.
+[2017.12.02-19.26.48:212][277]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.26.48:212][277]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.26.48:229][277]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.26.48
+[2017.12.02-19.26.48:231][277]LogWorld: Bringing up level for play took: 0.018284
+[2017.12.02-19.26.48:244][277]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.99
+[2017.12.02-19.27.13:442][943]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.27.14:930][ 66]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.27.16:714][227]Cmd: DELETE
+[2017.12.02-19.27.16:715][227]Cmd: ACTOR DELETE
+[2017.12.02-19.27.16:732][227]LogEditorActor: Deleted Actor: Brush
+[2017.12.02-19.27.16:745][227]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2017.12.02-19.36.12:470][736]LogSavePackage: Save=1454.88ms
+[2017.12.02-19.36.12:470][736]LogSavePackage: Moving 'C:/Users/Tal/Documents/Unreal Projects/VrGame/Saved/Demostration_Auto12FA0DE874E4C28B33887B4BC85F5D57B.tmp' to 'C:/Users/Tal/Documents/Unreal Projects/VrGame/Saved/Autosaves/Game/Levels/Demostration_Auto1.umap'
+[2017.12.02-19.36.12:471][736]LogSavePackage: Display: Finished SavePackage C:/Users/Tal/Documents/Unreal Projects/VrGame/Saved/Autosaves/Game/Levels/Demostration_Auto1.umap
+[2017.12.02-19.36.12:477][736]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Demostration' took 2.686
+[2017.12.02-19.36.12:477][736]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.686
+[2017.12.02-19.40.04:817][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_floor28)
+[2017.12.02-19.40.06:906][ 51]Cmd: EDIT CUT
+[2017.12.02-19.40.07:039][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.02-19.40.07:048][ 51]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2017.12.02-19.40.09:858][114]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2017.12.02-19.40.10:186][128]Cmd: TRANSACTION UNDO
+[2017.12.02-19.40.10:186][128]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.40.11:471][269]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.40.11:677][284]Cmd: TRANSACTION UNDO
+[2017.12.02-19.40.11:677][284]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.40.12:164][334]Cmd: TRANSACTION UNDO
+[2017.12.02-19.40.12:164][334]LogEditorTransaction: Undo Cut
+[2017.12.02-19.40.13:844][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_floor28)
+[2017.12.02-19.40.20:241][115]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.40.20:963][187]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.40.23:342][434]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.40.23:860][486]Cmd: EDIT COPY
+[2017.12.02-19.40.28:524][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_floor28)
+[2017.12.02-19.40.29:252][ 37]Cmd: EDIT COPY
+[2017.12.02-19.41.15:516][237]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.41.15:535][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.41.15:535][237]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:41:15 PM)
+[2017.12.02-19.41.15:535][237]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.41.15:593][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058115s)
+[2017.12.02-19.41.15:594][237]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.41.15:594][237]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2017.12.02-19.41.15:594][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.059552s)
+[2017.12.02-19.41.15:611][237]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.41.15:619][237]LogInit: FAudioDevice initialized.
+[2017.12.02-19.41.15:759][237]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.41.15:759][237]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.41.15:772][237]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.41.15
+[2017.12.02-19.41.15:774][237]LogWorld: Bringing up level for play took: 0.013887
+[2017.12.02-19.41.15:784][237]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.531
+[2017.12.02-19.42.00:157][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_floor28)
+[2017.12.02-19.42.00:928][565]Cmd: EDIT PASTE
+[2017.12.02-19.42.40:564][ 53]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.42.40:580][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.42.40:580][ 53]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:42:40 PM)
+[2017.12.02-19.42.40:580][ 53]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.42.40:626][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045877s)
+[2017.12.02-19.42.40:627][ 53]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.42.40:627][ 53]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2017.12.02-19.42.40:628][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.047734s)
+[2017.12.02-19.42.40:677][ 53]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.42.40:687][ 53]LogInit: FAudioDevice initialized.
+[2017.12.02-19.42.40:827][ 53]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.42.40:827][ 53]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.42.40:842][ 53]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.42.40
+[2017.12.02-19.42.40:844][ 53]LogWorld: Bringing up level for play took: 0.016572
+[2017.12.02-19.42.40:859][ 53]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration -0.394
+[2017.12.02-19.42.54:778][973]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.12.02-19.42.57:078][126]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube27)
+[2017.12.02-19.43.06:002][993]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.43.06:639][ 54]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.43.07:272][112]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.12.02-19.43.09:866][333]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube27)
+[2017.12.02-19.43.12:375][568]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.43.12:392][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.43.12:392][568]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:43:12 PM)
+[2017.12.02-19.43.12:392][568]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.43.12:443][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050319s)
+[2017.12.02-19.43.12:444][568]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.43.12:444][568]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2017.12.02-19.43.12:445][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.052024s)
+[2017.12.02-19.43.12:472][568]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.43.12:478][568]LogInit: FAudioDevice initialized.
+[2017.12.02-19.43.12:598][568]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.43.12:598][568]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.43.12:614][568]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.43.12
+[2017.12.02-19.43.12:615][568]LogWorld: Bringing up level for play took: 0.016444
+[2017.12.02-19.43.12:627][568]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration -0.626
+[2017.12.02-19.43.20:800][106]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube27)
+[2017.12.02-19.43.25:202][520]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.43.25:221][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.43.25:221][520]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:43:25 PM)
+[2017.12.02-19.43.25:221][520]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.43.25:274][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052570s)
+[2017.12.02-19.43.25:274][520]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.43.25:275][520]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2017.12.02-19.43.25:275][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.053858s)
+[2017.12.02-19.43.25:291][520]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.43.25:298][520]LogInit: FAudioDevice initialized.
+[2017.12.02-19.43.25:427][520]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.43.25:427][520]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.43.25:443][520]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.43.25
+[2017.12.02-19.43.25:445][520]LogWorld: Bringing up level for play took: 0.017045
+[2017.12.02-19.43.25:459][520]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.206
+[2017.12.02-19.43.37:225][489]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube27)
+[2017.12.02-19.43.40:130][753]Cmd: EDIT COPY
+[2017.12.02-19.43.40:621][778]Cmd: EDIT PASTE
+[2017.12.02-19.43.43:155][  9]Cmd: EDIT PASTE
+[2017.12.02-19.43.46:102][279]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.43.46:118][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.43.46:118][279]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:43:46 PM)
+[2017.12.02-19.43.46:118][279]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.43.46:172][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054549s)
+[2017.12.02-19.43.46:173][279]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.43.46:173][279]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2017.12.02-19.43.46:174][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.056014s)
+[2017.12.02-19.43.46:190][279]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.43.46:198][279]LogInit: FAudioDevice initialized.
+[2017.12.02-19.43.46:328][279]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.43.46:328][279]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.43.46:343][279]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.43.46
+[2017.12.02-19.43.46:344][279]LogWorld: Bringing up level for play took: 0.015490
+[2017.12.02-19.43.46:359][279]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 1.106
+[2017.12.02-19.44.30:286][292]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.44.31:160][371]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube27)
+[2017.12.02-19.44.31:873][433]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube28)
+[2017.12.02-19.44.32:620][501]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube29)
+[2017.12.02-19.44.33:812][611]Cmd: DELETE
+[2017.12.02-19.44.33:812][611]Cmd: ACTOR DELETE
+[2017.12.02-19.44.33:828][611]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2017.12.02-19.44.33:828][611]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2017.12.02-19.44.33:828][611]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2017.12.02-19.44.33:838][611]LogEditorActor: Deleted 3 Actors (0.026 secs)
+[2017.12.02-19.44.34:442][678]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.44.35:220][750]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.44.37:554][987]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.12.02-19.44.40:843][240]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.44.46:722][828]Cmd: TRANSACTION UNDO
+[2017.12.02-19.44.46:722][828]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.44.47:178][860]Cmd: TRANSACTION UNDO
+[2017.12.02-19.44.47:178][860]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.44.47:947][911]Cmd: TRANSACTION UNDO
+[2017.12.02-19.44.47:947][911]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.44.49:330][999]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.44.55:878][642]LogEditorViewport: Clicking on Actor (LMB): Bp_Spline_C (Bp_Spline19)
+[2017.12.02-19.44.57:713][814]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.45.10:808][111]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.45.10:825][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.45.10:825][111]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:45:10 PM)
+[2017.12.02-19.45.10:825][111]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.45.10:875][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049988s)
+[2017.12.02-19.45.10:876][111]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.45.10:876][111]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2017.12.02-19.45.10:877][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.051713s)
+[2017.12.02-19.45.10:894][111]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.45.10:902][111]LogInit: FAudioDevice initialized.
+[2017.12.02-19.45.11:031][111]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.45.11:031][111]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.45.11:044][111]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.45.11
+[2017.12.02-19.45.11:045][111]LogWorld: Bringing up level for play took: 0.013861
+[2017.12.02-19.45.11:060][111]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration -0.194
+[2017.12.02-19.45.24:218][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_floor28)
+[2017.12.02-19.45.25:406][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_wall29)
+[2017.12.02-19.45.26:494][221]Cmd: TRANSACTION UNDO
+[2017.12.02-19.45.26:494][221]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.45.26:794][237]Cmd: TRANSACTION UNDO
+[2017.12.02-19.45.26:794][237]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.45.27:193][267]Cmd: TRANSACTION UNDO
+[2017.12.02-19.45.27:193][267]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.45.27:551][293]Cmd: TRANSACTION UNDO
+[2017.12.02-19.45.27:551][293]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.45.27:900][316]Cmd: TRANSACTION UNDO
+[2017.12.02-19.45.27:900][316]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.45.28:604][367]Cmd: TRANSACTION UNDO
+[2017.12.02-19.45.28:604][367]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.45.46:589][249]LogEditorViewport: Clicking Background
+[2017.12.02-19.45.51:649][653]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_floor28)
+[2017.12.02-19.45.55:946][962]LogEditorViewport: Clicking Background
+[2017.12.02-19.46.47:823][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_wall29)
+[2017.12.02-19.46.50:601][405]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_wall32)
+[2017.12.02-19.46.51:597][498]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_wall01)
+[2017.12.02-19.46.53:644][693]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_woodbeam01)
+[2017.12.02-19.46.56:631][963]Cmd: TRANSACTION UNDO
+[2017.12.02-19.46.56:631][963]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.46.56:634][963]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.sm_wall32.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.47.02:613][484]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_floor28)
+[2017.12.02-19.47.03:851][603]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_woodcrate7)
+[2017.12.02-19.47.05:023][710]LogEditorViewport: Clicking on Actor (CTRL LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2017.12.02-19.47.08:066][  1]Cmd: TRANSACTION UNDO
+[2017.12.02-19.47.08:066][  1]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.47.09:135][ 78]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_wall28)
+[2017.12.02-19.47.12:468][339]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_fusebox3)
+[2017.12.02-19.47.13:163][398]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_wall15)
+[2017.12.02-19.47.14:562][513]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_woodbeam51)
+[2017.12.02-19.47.16:943][717]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_wall28)
+[2017.12.02-19.47.23:307][307]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (sm_wall32)
+[2017.12.02-19.47.26:644][656]Cmd: EDIT COPY
+[2017.12.02-19.47.38:025][669]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.02-19.47.41:191][669]Cmd: MAP LOAD FILE="C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-19.47.41:193][669]LightingResults: New page: Lighting Build
+[2017.12.02-19.47.41:194][669]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2017.12.02-19.47.41:199][669]MapCheck: New page: Map Check
+[2017.12.02-19.47.41:199][669]LightingResults: New page: Lighting Build
+[2017.12.02-19.47.41:221][669]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-19.47.41:257][669]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-19.47.41:337][669]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.132ms to complete.
+[2017.12.02-19.47.41:337][669]LogFileHelpers: Loading map 'MotionControllerMap' took 0.148
+[2017.12.02-19.47.48:580][522]Cmd: EDIT PASTE
+[2017.12.02-19.47.58:935][549]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.12.02-19.48.04:728][ 87]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.48.04:743][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-19.48.04:744][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.48.04:744][ 87]PIE: New page: PIE session: MotionControllerMap (Dec 2, 2017, 11:48:04 PM)
+[2017.12.02-19.48.04:744][ 87]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.12.02-19.48.04:756][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012009s)
+[2017.12.02-19.48.04:757][ 87]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.02-19.48.04:757][ 87]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2017.12.02-19.48.04:757][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.013414s)
+[2017.12.02-19.48.04:802][ 87]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.48.04:808][ 87]LogInit: FAudioDevice initialized.
+[2017.12.02-19.48.04:936][ 87]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.48.04:936][ 87]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.48.04:939][ 87]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.12.02-21.48.04
+[2017.12.02-19.48.04:939][ 87]LogWorld: Bringing up level for play took: 0.003155
+[2017.12.02-19.48.04:952][ 87]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.301
+[2017.12.02-19.48.04:952][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-19.48.43:680][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-19.48.43:859][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-19.48.49:639][185]Cmd: TRANSACTION UNDO
+[2017.12.02-19.48.49:639][185]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.02-19.48.50:069][219]Cmd: TRANSACTION UNDO
+[2017.12.02-19.48.50:069][219]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.48.50:550][271]Cmd: TRANSACTION UNDO
+[2017.12.02-19.48.50:550][271]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.48.50:961][318]Cmd: TRANSACTION UNDO
+[2017.12.02-19.48.50:962][318]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.48.51:400][368]Cmd: TRANSACTION UNDO
+[2017.12.02-19.48.51:400][368]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.48.52:103][430]Cmd: TRANSACTION UNDO
+[2017.12.02-19.48.52:104][430]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.48.52:108][430]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.sm_woodbeam51.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.48.52:109][430]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.sm_floor28.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.48.52:528][471]Cmd: TRANSACTION UNDO
+[2017.12.02-19.48.52:528][471]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.48.52:532][471]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.sm_woodbeam51.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.48.52:534][471]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.sm_floor28.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.48.53:010][520]Cmd: TRANSACTION UNDO
+[2017.12.02-19.48.53:010][520]LogEditorTransaction: Undo Paste
+[2017.12.02-19.49.28:378][579]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.49.28:420][579]Cmd: MAP LOAD FILE="C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/Levels/Demostration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-19.49.28:420][579]LightingResults: New page: Lighting Build
+[2017.12.02-19.49.28:421][579]LoadErrors: New page: Loading map: Demostration.umap
+[2017.12.02-19.49.28:423][579]MapCheck: New page: Map Check
+[2017.12.02-19.49.28:423][579]LightingResults: New page: Lighting Build
+[2017.12.02-19.49.28:475][579]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-19.49.28:527][579]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-19.49.28:610][579]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.51ms to complete.
+[2017.12.02-19.49.28:612][579]LogFileHelpers: Loading map 'Demostration' took 0.193
+[2017.12.02-19.49.31:505][891]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.49.32:375][969]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.49.34:811][205]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.49.35:481][269]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.12.02-19.49.48:271][905]LogEditorViewport: Clicking Background
+[2017.12.02-19.50.35:026][245]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture4)
+[2017.12.02-19.50.36:820][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_wall15)
+[2017.12.02-19.50.37:590][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_spiderweb3)
+[2017.12.02-19.50.43:022][620]Cmd: EDIT COPY
+[2017.12.02-19.50.47:174][752]Cmd: EDIT COPY
+[2017.12.02-19.50.55:452][975]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.02-19.50.57:161][975]Cmd: MAP LOAD FILE="C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-19.50.57:163][975]LightingResults: New page: Lighting Build
+[2017.12.02-19.50.57:164][975]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2017.12.02-19.50.57:199][975]MapCheck: New page: Map Check
+[2017.12.02-19.50.57:199][975]LightingResults: New page: Lighting Build
+[2017.12.02-19.50.57:227][975]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-19.50.57:270][975]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-19.50.57:342][975]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.751ms to complete.
+[2017.12.02-19.50.57:342][975]LogFileHelpers: Loading map 'MotionControllerMap' took 0.183
+[2017.12.02-19.50.59:829][263]Cmd: EDIT PASTE
+[2017.12.02-19.51.16:442][419]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2017.12.02-19.51.17:517][419]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.12.02-19.51.17:545][419]LogEditorActor: Deleted 1 Actors (1.119 secs)
+[2017.12.02-19.51.19:845][626]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2017.12.02-19.51.19:856][626]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2017.12.02-19.51.23:643][955]LogEditorActor: Deleted Actor: SkyLight
+[2017.12.02-19.51.23:654][955]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.12.02-19.51.24:898][ 94]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.24:898][ 94]LogEditorTransaction: Undo Delete selection
+[2017.12.02-19.51.25:275][115]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.25:276][115]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.51.25:888][163]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.25:888][163]LogEditorTransaction: Undo Delete selection
+[2017.12.02-19.51.26:746][228]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.26:746][228]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.51.27:306][271]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.27:306][271]LogEditorTransaction: Undo Delete selection
+[2017.12.02-19.51.27:893][304]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.27:893][304]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.51.28:448][317]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.28:448][317]LogEditorTransaction: Undo Paste
+[2017.12.02-19.51.30:850][570]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2017.12.02-19.51.32:088][570]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.12.02-19.51.32:102][570]LogEditorActor: Deleted 1 Actors (1.257 secs)
+[2017.12.02-19.51.34:806][874]Cmd: EDIT PASTE
+[2017.12.02-19.51.38:960][942]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.38:960][942]LogEditorTransaction: Undo Paste
+[2017.12.02-19.51.40:309][ 59]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.40:309][ 59]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.02-19.51.40:737][106]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.40:737][106]LogEditorTransaction: Undo Delete selection
+[2017.12.02-19.51.44:294][450]LogEditorActor: Deleted Actor: SkyLight
+[2017.12.02-19.51.44:309][450]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.12.02-19.51.45:663][607]Cmd: TRANSACTION UNDO
+[2017.12.02-19.51.45:663][607]LogEditorTransaction: Undo Delete selection
+[2017.12.02-19.51.54:859][510]Cmd: EDIT PASTE
+[2017.12.02-19.52.12:830][693]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2017.12.02-19.52.14:062][693]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.12.02-19.52.14:076][693]LogEditorActor: Deleted 1 Actors (1.262 secs)
+[2017.12.02-19.52.17:712][ 87]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.12.02-19.52.20:645][340]Cmd: DELETE
+[2017.12.02-19.52.20:645][340]Cmd: ACTOR DELETE
+[2017.12.02-19.52.20:663][340]LogEditorActor: Deleted Actor: PointLight
+[2017.12.02-19.52.20:674][340]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2017.12.02-19.52.22:031][493]Cmd: TRANSACTION UNDO
+[2017.12.02-19.52.22:031][493]LogEditorTransaction: Undo Delete Actors
+[2017.12.02-19.52.32:988][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_wall01)
+[2017.12.02-19.52.33:818][463]Cmd: DELETE
+[2017.12.02-19.52.33:818][463]Cmd: ACTOR DELETE
+[2017.12.02-19.52.33:832][463]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.02-19.52.33:841][463]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.12.02-19.52.35:041][596]Cmd: TRANSACTION UNDO
+[2017.12.02-19.52.35:042][596]LogEditorTransaction: Undo Delete Actors
+[2017.12.02-19.52.38:286][830]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2017.12.02-19.52.39:261][917]Cmd: DELETE
+[2017.12.02-19.52.39:261][917]Cmd: ACTOR DELETE
+[2017.12.02-19.52.39:275][917]LogEditorActor: Deleted Actor: PointLight
+[2017.12.02-19.52.39:285][917]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.12.02-19.52.40:192][ 18]Cmd: TRANSACTION UNDO
+[2017.12.02-19.52.40:192][ 18]LogEditorTransaction: Undo Delete Actors
+[2017.12.02-19.53.34:743][935]Cmd: TRANSACTION UNDO
+[2017.12.02-19.53.34:743][935]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.53.35:239][968]Cmd: TRANSACTION UNDO
+[2017.12.02-19.53.35:240][968]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.53.35:704][  2]Cmd: TRANSACTION UNDO
+[2017.12.02-19.53.35:704][  2]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.53.36:109][ 34]Cmd: TRANSACTION UNDO
+[2017.12.02-19.53.36:109][ 34]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.53.36:562][ 77]Cmd: TRANSACTION UNDO
+[2017.12.02-19.53.36:562][ 77]LogEditorTransaction: Undo Delete selection
+[2017.12.02-19.53.37:893][179]Cmd: TRANSACTION UNDO
+[2017.12.02-19.53.37:893][179]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.53.46:293][777]Cmd: TRANSACTION UNDO
+[2017.12.02-19.53.46:293][777]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.02-19.53.46:699][784]Cmd: TRANSACTION UNDO
+[2017.12.02-19.53.46:699][784]LogEditorTransaction: Undo Paste
+[2017.12.02-19.54.38:427][ 69]Cmd: EDIT COPY
+[2017.12.02-19.54.47:919][953]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.54.49:781][953]Cmd: MAP LOAD FILE="C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/Levels/Demostration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-19.54.49:783][953]LightingResults: New page: Lighting Build
+[2017.12.02-19.54.49:785][953]LoadErrors: New page: Loading map: Demostration.umap
+[2017.12.02-19.54.49:816][953]MapCheck: New page: Map Check
+[2017.12.02-19.54.49:816][953]LightingResults: New page: Lighting Build
+[2017.12.02-19.54.49:866][953]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-19.54.49:908][953]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-19.54.49:986][953]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.761ms to complete.
+[2017.12.02-19.54.50:012][953]LogFileHelpers: Loading map 'Demostration' took 0.233
+[2017.12.02-19.54.50:014][953]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-19.54.55:342][499]Cmd: EDIT PASTE
+[2017.12.02-19.55.01:294][667]Cmd: TRANSACTION UNDO
+[2017.12.02-19.55.01:294][667]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.55.01:336][667]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume8.BrushComponent0) Component already registered.
+[2017.12.02-19.55.01:338][667]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube9_3.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.55.01:339][667]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube12_6.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.55.01:344][667]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2017.12.02-19.55.01:345][667]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube33.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.55.01:917][681]Cmd: TRANSACTION UNDO
+[2017.12.02-19.55.01:917][681]LogEditorTransaction: Undo Paste
+[2017.12.02-19.55.05:922][ 34]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.12.02-19.55.06:804][110]Cmd: DELETE
+[2017.12.02-19.55.06:804][110]Cmd: ACTOR DELETE
+[2017.12.02-19.55.06:822][110]LogEditorActor: Deleted Actor: MotionControllerPawn_C
+[2017.12.02-19.55.06:857][110]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2017.12.02-19.55.08:716][305]Cmd: EDIT PASTE
+[2017.12.02-19.55.28:847][137]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.55.28:865][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.55.28:865][137]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:55:28 PM)
+[2017.12.02-19.55.28:865][137]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.55.28:926][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060394s)
+[2017.12.02-19.55.28:927][137]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.55.28:927][137]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2017.12.02-19.55.28:927][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.061722s)
+[2017.12.02-19.55.28:972][137]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.55.28:978][137]LogInit: FAudioDevice initialized.
+[2017.12.02-19.55.29:107][137]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.55.29:107][137]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.55.29:128][137]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.55.29
+[2017.12.02-19.55.29:130][137]LogWorld: Bringing up level for play took: 0.021864
+[2017.12.02-19.55.29:140][137]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration -0.114
+[2017.12.02-19.55.53:446][186]Cmd: TRANSACTION UNDO
+[2017.12.02-19.55.53:446][186]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.55.53:455][186]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume8.BrushComponent0) Component already registered.
+[2017.12.02-19.55.53:457][186]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube9_3.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.55.53:459][186]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube12_6.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.55.53:464][186]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2017.12.02-19.55.53:465][186]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube33.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.56.09:645][729]Cmd: TRANSACTION UNDO
+[2017.12.02-19.56.09:645][729]LogEditorTransaction: Undo Paste
+[2017.12.02-19.56.14:749][230]Cmd: EDIT PASTE
+[2017.12.02-19.56.50:579][535]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.56.50:604][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.56.50:604][535]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:56:50 PM)
+[2017.12.02-19.56.50:604][535]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.56.50:674][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070110s)
+[2017.12.02-19.56.50:675][535]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.56.50:675][535]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2017.12.02-19.56.50:676][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.071810s)
+[2017.12.02-19.56.50:726][535]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.56.50:733][535]LogInit: FAudioDevice initialized.
+[2017.12.02-19.56.50:857][535]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.56.50:857][535]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.56.50:876][535]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.56.50
+[2017.12.02-19.56.50:877][535]LogWorld: Bringing up level for play took: 0.019568
+[2017.12.02-19.56.50:887][535]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration -0.366
+[2017.12.02-19.57.08:836][430]Cmd: DELETE
+[2017.12.02-19.57.08:836][430]Cmd: ACTOR DELETE
+[2017.12.02-19.57.08:853][430]LogEditorActor: Deleted Actor: Brush
+[2017.12.02-19.57.08:872][430]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2017.12.02-19.57.10:482][532]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.57.10:504][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.57.10:504][532]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:57:10 PM)
+[2017.12.02-19.57.10:504][532]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.57.10:571][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067725s)
+[2017.12.02-19.57.10:572][532]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.57.10:573][532]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2017.12.02-19.57.10:573][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.069506s)
+[2017.12.02-19.57.10:610][532]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.57.10:619][532]LogInit: FAudioDevice initialized.
+[2017.12.02-19.57.10:765][532]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.57.10:765][532]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.57.10:785][532]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.57.10
+[2017.12.02-19.57.10:787][532]LogWorld: Bringing up level for play took: 0.021531
+[2017.12.02-19.57.10:804][532]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration -0.449
+[2017.12.02-19.58.07:096][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_spiderweb4)
+[2017.12.02-19.58.10:821][914]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.58.13:164][130]Cmd: TRANSACTION UNDO
+[2017.12.02-19.58.13:164][130]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.58.13:765][173]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-19.58.14:755][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_doorframe3)
+[2017.12.02-19.58.15:266][287]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.12.02-19.58.23:845][561]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-19.58.23:867][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-19.58.23:867][561]PIE: New page: PIE session: Demostration (Dec 2, 2017, 11:58:23 PM)
+[2017.12.02-19.58.23:867][561]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-19.58.23:947][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079823s)
+[2017.12.02-19.58.23:948][561]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-19.58.23:948][561]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2017.12.02-19.58.23:948][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.081082s)
+[2017.12.02-19.58.23:997][561]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-19.58.24:004][561]LogInit: FAudioDevice initialized.
+[2017.12.02-19.58.24:130][561]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-19.58.24:130][561]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-19.58.24:148][561]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-21.58.24
+[2017.12.02-19.58.24:149][561]LogWorld: Bringing up level for play took: 0.018365
+[2017.12.02-19.58.24:169][561]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.916
+[2017.12.02-19.59.00:959][242]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.00:959][242]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.59.01:363][261]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.01:363][261]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.59.01:982][294]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.01:982][294]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.59.07:332][597]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.07:332][597]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.59.08:338][641]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.08:338][641]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.59.09:170][679]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.09:170][679]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.59.10:645][749]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.10:645][749]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.59.11:498][789]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.11:498][789]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-19.59.12:189][825]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.12:189][825]LogEditorTransaction: Undo Delete Actors
+[2017.12.02-19.59.12:214][825]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.BoxBrush8_7.BrushComponent0) Component already registered.
+[2017.12.02-19.59.13:199][877]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.13:199][877]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.02-19.59.13:924][921]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.13:924][921]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.59.13:945][921]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume8_7.BrushComponent0) Component already registered.
+[2017.12.02-19.59.13:948][921]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube14_6.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.13:949][921]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube17_9.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.13:952][921]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume13_12.BrushComponent0) Component already registered.
+[2017.12.02-19.59.13:953][921]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube32_10.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.14:595][956]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.14:595][956]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.59.14:610][956]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume8_7.BrushComponent0) Component already registered.
+[2017.12.02-19.59.14:612][956]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube9_1.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.14:614][956]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube12_4.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.14:621][956]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.BoxBrush3_2.BrushComponent0) Component already registered.
+[2017.12.02-19.59.14:622][956]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube33_9.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.15:129][987]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.15:129][987]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.59.15:150][987]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume8_7.BrushComponent0) Component already registered.
+[2017.12.02-19.59.15:155][987]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube14_6.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.15:155][987]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube17_9.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.15:159][987]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume13_12.BrushComponent0) Component already registered.
+[2017.12.02-19.59.15:160][987]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube32_10.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.16:344][ 43]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.16:344][ 43]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.59.16:372][ 43]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume8_7.BrushComponent0) Component already registered.
+[2017.12.02-19.59.16:376][ 43]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube14_6.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.16:377][ 43]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube17_9.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.16:382][ 43]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume13_12.BrushComponent0) Component already registered.
+[2017.12.02-19.59.16:383][ 43]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube32_10.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.17:819][116]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.17:819][116]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.59.17:845][116]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube11_3.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.17:847][116]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube13_5.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.17:848][116]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.BoxBrush3_2.BrushComponent0) Component already registered.
+[2017.12.02-19.59.17:852][116]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube31_11.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.20:068][227]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.20:068][227]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.59.20:096][227]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume8_7.BrushComponent0) Component already registered.
+[2017.12.02-19.59.20:098][227]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube9_1.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.20:099][227]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube12_4.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.20:104][227]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.BoxBrush3_2.BrushComponent0) Component already registered.
+[2017.12.02-19.59.20:105][227]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube33_9.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.20:653][256]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.20:653][256]LogEditorTransaction: Undo Move Actors
+[2017.12.02-19.59.20:664][256]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume8_7.BrushComponent0) Component already registered.
+[2017.12.02-19.59.20:667][256]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube9_1.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.20:668][256]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube12_4.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.20:675][256]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.BoxBrush3_2.BrushComponent0) Component already registered.
+[2017.12.02-19.59.20:676][256]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube33_9.StaticMeshComponent0) Component already registered.
+[2017.12.02-19.59.21:645][315]Cmd: TRANSACTION UNDO
+[2017.12.02-19.59.21:645][315]LogEditorTransaction: Undo Paste
+[2017.12.02-19.59.26:642][747]Cmd: EDIT PASTE
+[2017.12.02-19.59.48:154][731]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.12.02-19.59.48:171][731]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2017.12.02-19.59.53:722][308]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.12.02-20.00.10:065][152]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.00.10:087][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.00.10:087][152]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:00:10 AM)
+[2017.12.02-20.00.10:087][152]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.00.10:148][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061006s)
+[2017.12.02-20.00.10:149][152]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.00.10:149][152]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2017.12.02-20.00.10:149][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.062265s)
+[2017.12.02-20.00.10:198][152]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.00.10:205][152]LogInit: FAudioDevice initialized.
+[2017.12.02-20.00.10:333][152]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.00.10:333][152]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.00.10:347][152]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.00.10
+[2017.12.02-20.00.10:348][152]LogWorld: Bringing up level for play took: 0.014198
+[2017.12.02-20.00.10:358][152]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 1.105
+[2017.12.02-20.00.39:308][171]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.39:308][171]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.00.39:620][197]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.39:620][197]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.00.39:939][224]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.39:939][224]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.00.40:286][260]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.40:286][260]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.00.40:623][295]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.40:623][295]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.00.40:887][323]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.40:887][323]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.00.41:091][343]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.41:091][343]LogEditorTransaction: Undo Delete selection
+[2017.12.02-20.00.41:337][362]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.41:337][362]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.00.41:797][397]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.41:798][397]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.00.42:837][466]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.42:838][466]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.00.42:863][466]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume8.BrushComponent0) Component already registered.
+[2017.12.02-20.00.42:865][466]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube9_3.StaticMeshComponent0) Component already registered.
+[2017.12.02-20.00.42:867][466]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube12_6.StaticMeshComponent0) Component already registered.
+[2017.12.02-20.00.42:872][466]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2017.12.02-20.00.42:873][466]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube33.StaticMeshComponent0) Component already registered.
+[2017.12.02-20.00.44:189][525]Cmd: TRANSACTION UNDO
+[2017.12.02-20.00.44:189][525]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.00.44:202][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume8.BrushComponent0) Component already registered.
+[2017.12.02-20.00.44:204][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube9_3.StaticMeshComponent0) Component already registered.
+[2017.12.02-20.00.44:206][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube12_6.StaticMeshComponent0) Component already registered.
+[2017.12.02-20.00.44:212][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2017.12.02-20.00.44:214][525]LogActorComponent: ~FComponentReregisterContext: (/Game/Levels/Demostration.Demostration:PersistentLevel.EditorCube33.StaticMeshComponent0) Component already registered.
+[2017.12.02-20.00.48:831][676]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.12.02-20.00.48:845][676]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2017.12.02-20.01.01:093][567]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.01.01:113][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.01.01:113][567]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:01:01 AM)
+[2017.12.02-20.01.01:113][567]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.01.01:174][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061362s)
+[2017.12.02-20.01.01:175][567]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.01.01:176][567]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2017.12.02-20.01.01:176][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.063378s)
+[2017.12.02-20.01.01:203][567]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.01.01:211][567]LogInit: FAudioDevice initialized.
+[2017.12.02-20.01.01:343][567]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.01.01:343][567]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.01.01:357][567]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.01.01
+[2017.12.02-20.01.01:359][567]LogWorld: Bringing up level for play took: 0.015357
+[2017.12.02-20.01.01:370][567]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.117
+[2017.12.02-20.01.16:702][282]Cmd: TRANSACTION UNDO
+[2017.12.02-20.01.16:702][282]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.01.19:291][431]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.01.19:309][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.01.19:309][431]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:01:19 AM)
+[2017.12.02-20.01.19:310][431]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.01.19:368][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058621s)
+[2017.12.02-20.01.19:369][431]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.01.19:369][431]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2017.12.02-20.01.19:370][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.060538s)
+[2017.12.02-20.01.19:404][431]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.01.19:411][431]LogInit: FAudioDevice initialized.
+[2017.12.02-20.01.19:556][431]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.01.19:556][431]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.01.19:575][431]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.01.19
+[2017.12.02-20.01.19:576][431]LogWorld: Bringing up level for play took: 0.020034
+[2017.12.02-20.01.19:589][431]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.335
+[2017.12.02-20.01.31:176][ 23]Cmd: TRANSACTION UNDO
+[2017.12.02-20.01.31:176][ 23]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.02-20.01.31:667][ 50]Cmd: TRANSACTION UNDO
+[2017.12.02-20.01.31:667][ 50]LogEditorTransaction: Undo Delete selection
+[2017.12.02-20.01.32:890][116]Cmd: TRANSACTION UNDO
+[2017.12.02-20.01.32:890][116]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.01.33:745][160]Cmd: TRANSACTION UNDO
+[2017.12.02-20.01.33:746][160]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.01.36:005][220]Cmd: TRANSACTION UNDO
+[2017.12.02-20.01.36:005][220]LogEditorTransaction: Undo Paste
+[2017.12.02-20.01.37:681][336]Cmd: TRANSACTION REDO
+[2017.12.02-20.01.37:681][336]LogEditorTransaction: Redo Paste
+[2017.12.02-20.01.37:704][336]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.12.02-20.01.37:721][336]LogPhysics: Warning: ForeachShape(Convex): [/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume3_6.BrushComponent0] ScaledElem[0] invalid
+[2017.12.02-20.01.37:722][336]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.12.02-20.01.37:722][336]LogPhysics: Warning: ForeachShape(Convex): [/Game/Levels/Demostration.Demostration:PersistentLevel.NavMeshBoundsVolume_1.BrushComponent0] ScaledElem[0] invalid
+[2017.12.02-20.01.37:723][336]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.12.02-20.01.37:723][336]LogPhysics: Warning: ForeachShape(Convex): [/Game/Levels/Demostration.Demostration:PersistentLevel.PostProcessVolume2.BrushComponent0] ScaledElem[0] invalid
+[2017.12.02-20.01.37:724][336]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.12.02-20.01.37:724][336]LogPhysics: Warning: ForeachShape(Convex): [/Game/Levels/Demostration.Demostration:PersistentLevel.LightmassImportanceVolume2.BrushComponent0] ScaledElem[0] invalid
+[2017.12.02-20.01.39:367][376]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.01.39:386][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.01.39:386][376]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:01:39 AM)
+[2017.12.02-20.01.39:386][376]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.01.39:444][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057114s)
+[2017.12.02-20.01.39:445][376]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.01.39:446][376]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2017.12.02-20.01.39:447][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.059878s)
+[2017.12.02-20.01.39:497][376]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.01.39:503][376]LogInit: FAudioDevice initialized.
+[2017.12.02-20.01.39:642][376]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.01.39:642][376]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.01.39:657][376]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.01.39
+[2017.12.02-20.01.39:659][376]LogWorld: Bringing up level for play took: 0.016362
+[2017.12.02-20.01.39:671][376]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.418
+[2017.12.02-20.01.48:907][789]Cmd: TRANSACTION UNDO
+[2017.12.02-20.01.48:907][789]LogEditorTransaction: Undo Paste
+[2017.12.02-20.01.50:579][906]Cmd: TRANSACTION UNDO
+[2017.12.02-20.01.50:579][906]LogEditorTransaction: Undo Delete Actors
+[2017.12.02-20.01.52:131][963]Cmd: TRANSACTION UNDO
+[2017.12.02-20.01.52:131][963]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.02.00:732][644]Cmd: EDIT PASTE
+[2017.12.02-20.02.03:259][701]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.02.03:280][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.02.03:280][701]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:02:03 AM)
+[2017.12.02-20.02.03:280][701]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.02.03:354][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073352s)
+[2017.12.02-20.02.03:354][701]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.02.03:355][701]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2017.12.02-20.02.03:355][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.075168s)
+[2017.12.02-20.02.03:403][701]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.02.03:411][701]LogInit: FAudioDevice initialized.
+[2017.12.02-20.02.03:533][701]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.02.03:533][701]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.02.03:548][701]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.02.03
+[2017.12.02-20.02.03:550][701]LogWorld: Bringing up level for play took: 0.016630
+[2017.12.02-20.02.03:562][701]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.309
+[2017.12.02-20.02.45:604][460]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.02.45:623][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.02.45:623][460]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:02:45 AM)
+[2017.12.02-20.02.45:623][460]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.02.45:686][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062184s)
+[2017.12.02-20.02.45:686][460]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.02.45:687][460]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2017.12.02-20.02.45:687][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.063490s)
+[2017.12.02-20.02.45:702][460]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.02.45:709][460]LogInit: FAudioDevice initialized.
+[2017.12.02-20.02.45:836][460]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.02.45:836][460]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.02.45:850][460]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.02.45
+[2017.12.02-20.02.45:852][460]LogWorld: Bringing up level for play took: 0.014697
+[2017.12.02-20.02.45:865][460]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.611
+[2017.12.02-20.03.00:826][367]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-20.03.03:354][609]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-20.03.04:229][697]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-20.03.11:969][374]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.12.02-20.03.12:650][417]Cmd: DELETE
+[2017.12.02-20.03.12:650][417]Cmd: ACTOR DELETE
+[2017.12.02-20.03.12:672][417]LogEditorActor: Deleted Actor: MotionControllerPawn_C
+[2017.12.02-20.03.12:709][417]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2017.12.02-20.03.14:133][536]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.03.14:151][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.03.14:151][536]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:03:14 AM)
+[2017.12.02-20.03.14:151][536]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.03.14:217][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066159s)
+[2017.12.02-20.03.14:218][536]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.03.14:218][536]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2017.12.02-20.03.14:219][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.067858s)
+[2017.12.02-20.03.14:238][536]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.03.14:244][536]LogInit: FAudioDevice initialized.
+[2017.12.02-20.03.14:374][536]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.03.14:374][536]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.03.14:388][536]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.03.14
+[2017.12.02-20.03.14:389][536]LogWorld: Bringing up level for play took: 0.014890
+[2017.12.02-20.03.14:399][536]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 1.146
+[2017.12.02-20.03.28:428][477]Cmd: TRANSACTION UNDO
+[2017.12.02-20.03.28:428][477]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.03.37:233][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.12.02-20.03.38:793][208]Cmd: DELETE
+[2017.12.02-20.03.38:793][208]Cmd: ACTOR DELETE
+[2017.12.02-20.03.38:813][208]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.12.02-20.03.38:824][208]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2017.12.02-20.03.41:522][440]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.03.41:539][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.03.41:539][440]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:03:41 AM)
+[2017.12.02-20.03.41:539][440]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.03.41:594][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053860s)
+[2017.12.02-20.03.41:594][440]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.03.41:595][440]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2017.12.02-20.03.41:595][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.055575s)
+[2017.12.02-20.03.41:615][440]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.03.41:622][440]LogInit: FAudioDevice initialized.
+[2017.12.02-20.03.41:747][440]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.03.41:747][440]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.03.41:764][440]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.03.41
+[2017.12.02-20.03.41:766][440]LogWorld: Bringing up level for play took: 0.018048
+[2017.12.02-20.03.41:777][440]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.523
+[2017.12.02-20.03.49:935][787]Cmd: TRANSACTION UNDO
+[2017.12.02-20.03.49:935][787]LogEditorTransaction: Undo Delete Actors
+[2017.12.02-20.03.53:959][ 51]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.03.53:978][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.03.53:978][ 51]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:03:53 AM)
+[2017.12.02-20.03.53:978][ 51]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.03.54:044][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065517s)
+[2017.12.02-20.03.54:044][ 51]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.03.54:045][ 51]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2017.12.02-20.03.54:045][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.066792s)
+[2017.12.02-20.03.54:064][ 51]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.03.54:072][ 51]LogInit: FAudioDevice initialized.
+[2017.12.02-20.03.54:206][ 51]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.03.54:206][ 51]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.03.54:225][ 51]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.03.54
+[2017.12.02-20.03.54:227][ 51]LogWorld: Bringing up level for play took: 0.019771
+[2017.12.02-20.03.54:237][ 51]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.984
+[2017.12.02-20.04.12:163][127]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.12.02-20.04.12:886][169]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume2)
+[2017.12.02-20.05.43:668][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.12.02-20.05.44:093][  3]Cmd: TRANSACTION UNDO
+[2017.12.02-20.05.44:093][  3]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.05.44:640][ 31]Cmd: TRANSACTION UNDO
+[2017.12.02-20.05.44:640][ 31]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.05.45:395][ 69]Cmd: TRANSACTION UNDO
+[2017.12.02-20.05.45:395][ 69]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.05.46:154][110]Cmd: TRANSACTION UNDO
+[2017.12.02-20.05.46:154][110]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.05.46:747][139]Cmd: TRANSACTION UNDO
+[2017.12.02-20.05.46:747][139]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.05.58:908][869]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.05.58:934][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.05.58:934][869]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:05:58 AM)
+[2017.12.02-20.05.58:934][869]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.05.58:997][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062441s)
+[2017.12.02-20.05.58:998][869]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.05.58:998][869]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2017.12.02-20.05.58:998][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.064265s)
+[2017.12.02-20.05.59:018][869]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.05.59:029][869]LogInit: FAudioDevice initialized.
+[2017.12.02-20.05.59:168][869]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.05.59:168][869]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.05.59:186][869]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.05.59
+[2017.12.02-20.05.59:188][869]LogWorld: Bringing up level for play took: 0.019090
+[2017.12.02-20.05.59:199][869]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration -0.055
+[2017.12.02-20.06.08:715][446]Cmd: TRANSACTION UNDO
+[2017.12.02-20.06.08:715][446]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.02-20.06.09:099][467]Cmd: TRANSACTION UNDO
+[2017.12.02-20.06.09:099][467]LogEditorTransaction: Undo Delete Actors
+[2017.12.02-20.06.11:241][547]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.06.11:264][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.06.11:265][547]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:06:11 AM)
+[2017.12.02-20.06.11:265][547]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.06.11:332][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066911s)
+[2017.12.02-20.06.11:333][547]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.06.11:333][547]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2017.12.02-20.06.11:334][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.068764s)
+[2017.12.02-20.06.11:409][547]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.06.11:415][547]LogInit: FAudioDevice initialized.
+[2017.12.02-20.06.11:557][547]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.06.11:557][547]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.06.11:575][547]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.06.11
+[2017.12.02-20.06.11:577][547]LogWorld: Bringing up level for play took: 0.018802
+[2017.12.02-20.06.11:593][547]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.339
+[2017.12.02-20.06.16:747][788]Cmd: TRANSACTION UNDO
+[2017.12.02-20.06.16:747][788]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.06.17:007][799]Cmd: TRANSACTION UNDO
+[2017.12.02-20.06.17:007][799]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.06.17:481][826]Cmd: TRANSACTION UNDO
+[2017.12.02-20.06.17:481][826]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.06.17:891][853]Cmd: TRANSACTION UNDO
+[2017.12.02-20.06.17:891][853]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.06.18:675][907]Cmd: TRANSACTION UNDO
+[2017.12.02-20.06.18:675][907]LogEditorTransaction: Undo Paste
+[2017.12.02-20.06.19:972][ 10]Cmd: TRANSACTION REDO
+[2017.12.02-20.06.19:972][ 10]LogEditorTransaction: Redo Paste
+[2017.12.02-20.06.19:998][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.12.02-20.06.19:998][ 10]LogPhysics: Warning: ForeachShape(Convex): [/Game/Levels/Demostration.Demostration:PersistentLevel.NavModifierVolume3_13.BrushComponent0] ScaledElem[0] invalid
+[2017.12.02-20.06.19:998][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.12.02-20.06.19:998][ 10]LogPhysics: Warning: ForeachShape(Convex): [/Game/Levels/Demostration.Demostration:PersistentLevel.NavMeshBoundsVolume_2.BrushComponent0] ScaledElem[0] invalid
+[2017.12.02-20.06.19:999][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.12.02-20.06.19:999][ 10]LogPhysics: Warning: ForeachShape(Convex): [/Game/Levels/Demostration.Demostration:PersistentLevel.PostProcessVolume2.BrushComponent0] ScaledElem[0] invalid
+[2017.12.02-20.06.20:001][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2017.12.02-20.06.20:001][ 10]LogPhysics: Warning: ForeachShape(Convex): [/Game/Levels/Demostration.Demostration:PersistentLevel.LightmassImportanceVolume2.BrushComponent0] ScaledElem[0] invalid
+[2017.12.02-20.06.21:770][117]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.06.21:787][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.06.21:787][117]PIE: New page: PIE session: Demostration (Dec 3, 2017, 12:06:21 AM)
+[2017.12.02-20.06.21:787][117]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Demostration
+[2017.12.02-20.06.21:853][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065492s)
+[2017.12.02-20.06.21:855][117]LogAIModule: Creating AISystem for world Demostration
+[2017.12.02-20.06.21:855][117]LogPlayLevel: PIE: World Init took: (0.001920s)
+[2017.12.02-20.06.21:856][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Demostration.Demostration to /Game/Levels/UEDPIE_0_Demostration.Demostration (0.068125s)
+[2017.12.02-20.06.21:879][117]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.06.21:887][117]LogInit: FAudioDevice initialized.
+[2017.12.02-20.06.22:022][117]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.06.22:022][117]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.06.22:037][117]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Demostration.Demostration up for play (max tick rate 0) at 2017.12.02-22.06.22
+[2017.12.02-20.06.22:038][117]LogWorld: Bringing up level for play took: 0.015154
+[2017.12.02-20.06.22:048][117]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Demostration 0.795
+[2017.12.02-20.06.35:252][765]Cmd: TRANSACTION UNDO
+[2017.12.02-20.06.35:252][765]LogEditorTransaction: Undo Paste
+[2017.12.02-20.06.41:789][336]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-20.06.44:891][643]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-20.06.45:531][708]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-20.06.45:998][755]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-20.06.46:530][809]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-20.06.49:839][127]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_GroundFog5)
+[2017.12.02-20.06.50:518][196]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.12.02-20.07.08:263][299]Cmd: EDIT COPY
+[2017.12.02-20.07.17:243][827]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.02-20.07.18:522][827]Cmd: MAP LOAD FILE="C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-20.07.18:524][827]LightingResults: New page: Lighting Build
+[2017.12.02-20.07.18:526][827]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2017.12.02-20.07.18:535][827]MapCheck: New page: Map Check
+[2017.12.02-20.07.18:536][827]LightingResults: New page: Lighting Build
+[2017.12.02-20.07.18:556][827]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-20.07.18:593][827]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-20.07.18:679][827]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.261ms to complete.
+[2017.12.02-20.07.18:679][827]LogFileHelpers: Loading map 'MotionControllerMap' took 0.160
+[2017.12.02-20.07.25:268][561]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2017.12.02-20.07.26:399][561]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.12.02-20.07.26:411][561]LogEditorActor: Deleted 1 Actors (1.146 secs)
+[2017.12.02-20.07.31:958][145]LogEditorActor: Deleted Actor: SkyLight
+[2017.12.02-20.07.31:967][145]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.12.02-20.07.33:915][365]Cmd: TRANSACTION UNDO
+[2017.12.02-20.07.33:915][365]LogEditorTransaction: Undo Delete selection
+[2017.12.02-20.07.34:243][388]Cmd: TRANSACTION UNDO
+[2017.12.02-20.07.34:243][388]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.07.35:072][463]Cmd: TRANSACTION UNDO
+[2017.12.02-20.07.35:072][463]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.07.36:087][572]Cmd: TRANSACTION UNDO
+[2017.12.02-20.07.36:087][572]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.07.37:705][758]Cmd: EDIT PASTE
+[2017.12.02-20.07.49:030][623]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.07.49:051][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.07.49:051][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.07.49:051][623]PIE: New page: PIE session: MotionControllerMap (Dec 3, 2017, 12:07:49 AM)
+[2017.12.02-20.07.49:051][623]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.12.02-20.07.49:181][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130547s)
+[2017.12.02-20.07.49:182][623]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.02-20.07.49:183][623]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2017.12.02-20.07.49:183][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.132672s)
+[2017.12.02-20.07.49:204][623]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.07.49:215][623]LogInit: FAudioDevice initialized.
+[2017.12.02-20.07.49:353][623]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.07.49:353][623]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.07.49:370][623]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.12.02-22.07.49
+[2017.12.02-20.07.49:372][623]LogWorld: Bringing up level for play took: 0.018611
+[2017.12.02-20.07.49:382][623]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.129
+[2017.12.02-20.07.49:383][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.09:577][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.09:775][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.10:628][599]Cmd: TRANSACTION UNDO
+[2017.12.02-20.08.10:628][599]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.08.10:640][599]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2017.12.02-20.08.10:640][599]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2017.12.02-20.08.10:640][599]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2017.12.02-20.08.10:642][599]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.02-20.08.10:997][624]Cmd: TRANSACTION UNDO
+[2017.12.02-20.08.10:997][624]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.08.11:001][624]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2017.12.02-20.08.11:002][624]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2017.12.02-20.08.11:002][624]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2017.12.02-20.08.11:003][624]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2017.12.02-20.08.11:904][692]Cmd: TRANSACTION UNDO
+[2017.12.02-20.08.11:904][692]LogEditorTransaction: Undo Select Surfaces
+[2017.12.02-20.08.13:874][826]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.08.13:890][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.13:891][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.08.13:891][826]PIE: New page: PIE session: MotionControllerMap (Dec 3, 2017, 12:08:13 AM)
+[2017.12.02-20.08.13:891][826]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.12.02-20.08.13:948][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057352s)
+[2017.12.02-20.08.13:949][826]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.02-20.08.13:950][826]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2017.12.02-20.08.13:950][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.059329s)
+[2017.12.02-20.08.13:991][826]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.08.13:998][826]LogInit: FAudioDevice initialized.
+[2017.12.02-20.08.14:145][826]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.08.14:145][826]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.08.14:163][826]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.12.02-22.08.14
+[2017.12.02-20.08.14:166][826]LogWorld: Bringing up level for play took: 0.020000
+[2017.12.02-20.08.14:179][826]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.926
+[2017.12.02-20.08.14:180][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.18:679][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.18:863][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.20:987][249]Cmd: TRANSACTION UNDO
+[2017.12.02-20.08.20:987][249]LogEditorTransaction: Undo Paste
+[2017.12.02-20.08.21:066][249]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2017.12.02-20.08.22:612][410]Cmd: TRANSACTION UNDO
+[2017.12.02-20.08.22:612][410]LogEditorTransaction: Undo Delete selection
+[2017.12.02-20.08.23:882][527]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.08.23:898][527]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.23:898][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.08.23:898][527]PIE: New page: PIE session: MotionControllerMap (Dec 3, 2017, 12:08:23 AM)
+[2017.12.02-20.08.23:898][527]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.12.02-20.08.23:908][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010276s)
+[2017.12.02-20.08.23:909][527]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.02-20.08.23:910][527]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2017.12.02-20.08.23:911][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.012708s)
+[2017.12.02-20.08.23:935][527]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.08.23:943][527]LogInit: FAudioDevice initialized.
+[2017.12.02-20.08.24:072][527]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.08.24:072][527]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.08.24:074][527]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.12.02-22.08.24
+[2017.12.02-20.08.24:075][527]LogWorld: Bringing up level for play took: 0.002504
+[2017.12.02-20.08.24:083][527]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.83
+[2017.12.02-20.08.24:084][527]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.37:330][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.37:512][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.38:345][792]Cmd: TRANSACTION UNDO
+[2017.12.02-20.08.38:345][792]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.08.40:602][ 26]Cmd: TRANSACTION UNDO
+[2017.12.02-20.08.40:603][ 26]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.02-20.08.45:083][546]LogTemp: Repeating last play command: VR Preview
+[2017.12.02-20.08.45:098][546]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.45:099][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.08.45:099][546]PIE: New page: PIE session: MotionControllerMap (Dec 3, 2017, 12:08:45 AM)
+[2017.12.02-20.08.45:099][546]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.12.02-20.08.45:109][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010033s)
+[2017.12.02-20.08.45:109][546]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.02-20.08.45:110][546]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2017.12.02-20.08.45:110][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011049s)
+[2017.12.02-20.08.45:131][546]LogInit: XAudio2 using 'Speakers (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.08.45:138][546]LogInit: FAudioDevice initialized.
+[2017.12.02-20.08.45:269][546]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.12.02-20.08.45:269][546]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-20.08.45:272][546]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.12.02-22.08.45
+[2017.12.02-20.08.45:272][546]LogWorld: Bringing up level for play took: 0.002705
+[2017.12.02-20.08.45:280][546]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.027
+[2017.12.02-20.08.45:281][546]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.53:491][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.08.53:670][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.02-20.09.37:982][867]LogUProjectInfo: Found projects:
+[2017.12.02-20.09.40:060][107]Cmd: CLOSE_SLATE_MAINFRAME
+[2017.12.02-20.09.41:793][108]Cmd: QUIT_EDITOR
+[2017.12.02-20.09.42:627][108]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.02-20.09.42:682][108]LogExit: Preparing to exit.
+[2017.12.02-20.09.43:889][108]LogExit: Editor shut down
+[2017.12.02-20.09.43:932][108]LogExit: Transaction tracking system shut down
+[2017.12.02-20.09.44:274][108]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.02-20.09.44:274][108]LogDirectoryWatcher: A directory notification for 'C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/' was aborted.
+[2017.12.02-20.09.44:274][108]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.02-20.09.44:274][108]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.02-20.09.44:274][108]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.02-20.09.44:274][108]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.02-20.09.44:274][108]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.02-20.09.44:437][108]LogExit: Object subsystem successfully closed.
+[2017.12.02-20.09.44:482][108]LogD3D11RHI: Shutdown
+[2017.12.02-20.09.44:483][108]LogD3D11RHI: CleanupD3DDevice
+[2017.12.02-20.09.44:508][108]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.02-20.09.44:541][108]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2017.12.02-20.09.44:541][108]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.12.02-20.09.44:541][108]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.02-20.09.44:541][108]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.02-20.09.44:541][108]LogDirectoryWatcher: A directory notification for 'D:/Unreal Program/1/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.02-20.09.44:548][108]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.02-20.09.44:548][108]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.02-20.09.44:548][108]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.02-20.09.44:548][108]LogDirectoryWatcher: A directory notification for 'C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/Collections/' was aborted.
+[2017.12.02-20.09.44:548][108]LogDirectoryWatcher: A directory notification for 'C:/Users/Tal/Documents/Unreal Projects/VrGame/Content/Developers/Tal/Collections/' was aborted.
+[2017.12.02-20.09.44:548][108]LogDirectoryWatcher: A directory notification for 'C:/Users/Tal/Documents/Unreal Projects/VrGame/Saved/Collections/' was aborted.
+[2017.12.02-20.09.44:548][108]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.02-20.09.44:548][108]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.02-20.09.44:548][108]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.02-20.09.44:549][108]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.02-20.09.44:550][108]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.02-20.09.44:550][108]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.02-20.09.44:550][108]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.02-20.09.44:550][108]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.02-20.09.45:307][108]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.02-20.09.45:308][108]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.02-20.09.45:362][108]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.02-20.09.45:362][108]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.02-20.09.45:362][108]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.02-20.09.45:362][108]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.02-20.09.45:362][108]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.02-20.09.45:362][108]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.02-20.09.45:363][108]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.02-20.09.45:363][108]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.02-20.09.45:363][108]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.02-20.09.45:363][108]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.02-20.09.45:365][108]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.02-20.09.45:365][108]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.02-20.09.45:365][108]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.02-20.09.45:365][108]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.02-20.09.45:365][108]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.12.02-20.09.45:366][108]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.12.02-20.09.45:376][108]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.12.02-20.09.45:377][108]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.12.02-20.09.45:381][108]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.12.02-20.09.45:382][108]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.12.02-20.09.45:382][108]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.12.02-20.09.45:382][108]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.02-20.09.45:382][108]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.02-20.09.45:383][108]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.02-20.09.45:383][108]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.02-20.09.45:383][108]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.02-20.09.45:383][108]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.02-20.09.45:383][108]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.02-20.09.45:383][108]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.02-20.09.45:484][108]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.02-20.09.45:585][108]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.02-20.09.45:585][108]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.02-20.09.45:585][108]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.02-20.09.45:585][108]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.02-20.09.45:586][108]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.02-20.09.45:586][108]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.02-20.09.45:589][108]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.02-20.09.45:589][108]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.02-20.09.45:589][108]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.02-20.09.45:589][108]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.02-20.09.45:590][108]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.02-20.09.45:590][108]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.02-20.09.45:590][108]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.02-20.09.45:591][108]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.02-20.09.45:591][108]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.02-20.09.45:591][108]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.02-20.09.45:597][108]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.02-20.09.45:597][108]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.02-20.09.45:597][108]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.02-20.09.45:597][108]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.02-20.09.45:597][108]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.02-20.09.45:598][108]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.02-20.09.45:603][108]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.02-20.09.45:603][108]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.02-20.09.45:603][108]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.02-20.09.45:603][108]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.02-20.09.45:604][108]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.02-20.09.45:604][108]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.02-20.09.45:604][108]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.02-20.09.45:604][108]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.02-20.09.45:616][108]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.02-20.09.45:616][108]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.02-20.09.45:616][108]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.02-20.09.45:616][108]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.02-20.09.45:616][108]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.02-20.09.45:616][108]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.02-20.09.45:617][108]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.02-20.09.45:617][108]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.02-20.09.45:617][108]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.02-20.09.45:644][108]LogDerivedDataCache: Shutdown
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.02-20.09.45:644][108]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.02-20.09.45:645][108]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.02-20.09.45:646][108]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.02-20.09.45:646][108]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.02-20.09.45:646][108]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.02-20.09.45:646][108]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.02-20.09.45:646][108]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.02-20.09.45:646][108]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.02-20.09.45:646][108]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.02-20.09.45:646][108]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0B387CF0-4A34-127F-C8B7-E283BD5415F7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=700b530b44954291858943b190eb150f%7Cf50c59bb2559412490fa45ec7061dd06%7C845a5fc5-4e79-4515-89dd-a77e047a49b5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.02-20.09.45:662][108]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.02-20.09.45:665][108]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.02-20.09.45:665][108]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.02-20.09.45:665][108]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.02-20.09.45:665][108]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.02-20.09.45:665][108]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.02-20.09.45:665][108]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.02-20.09.45:665][108]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.02-20.09.45:669][108]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.02-20.09.45:669][108]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.02-20.09.45:669][108]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.02-20.09.45:670][108]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.02-20.09.45:670][108]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.02-20.09.45:670][108]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.02-20.09.45:670][108]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.02-20.09.45:670][108]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.02-20.09.45:670][108]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.02-20.09.45:670][108]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.02-20.09.45:670][108]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.02-20.09.45:674][108]LogExit: Exiting.
+[2017.12.02-20.09.45:692][108]Log file closed, 12/02/17 22:09:45
